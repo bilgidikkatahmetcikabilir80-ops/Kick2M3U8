@@ -12,7 +12,7 @@ Kendi Kick yayınınızı (veya izinli bir HLS kaynağını) M3U / M3U8 bağlant
 - Sıfır bağımlılık, Node.js 20+ (19'da da çalışır)
 
 ## Kurulum
-1. Dosyaları sunucunun ana dizinine yükleyin (`server.js` ana dizinde olmalı).
+.zip dosyasını sunucunun ana dizinine yükleyin ve çıkarıp tümünü seçin. Ardından alttaki "Move" tuşuna basıp Container klasörüne getirin. (`server.js` ana dizinde olmalı).
 2. Ortam değişkenlerini girin veya `.env.example` dosyasını `.env` olarak kopyalayıp doldurun.
 3. Başlatın: `npm start`
 
